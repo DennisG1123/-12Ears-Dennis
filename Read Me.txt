@@ -1,0 +1,5 @@
+Final Jupyter Notebook file is in the "With Updated Dataset" folder, this contains the updated dataset the group created to be used by all
+members
+
+
+Archived early trials contains initial testing using basic logistic regression, and attempts in feature selection with outdated dataset
